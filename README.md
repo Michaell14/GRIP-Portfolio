@@ -10,7 +10,7 @@ Technologies: React.js, Supabase, TypeScript, Tailwind CSS, Shadcn/ui
 Idea: This box will play music with one tap of an album card. If you want to quickly switch from playing Kanye to Taylor Swift, then you can simply tap whichever one of Taylor's albums onto the box and it will begin playing. 
 Technologies: Raspberry Pi 4, Python, RFID Tags/Readers, Spotify API
 
-<img src="final_setup.jpg" alt="Spotify Music Box Preview" width="800px">
+<img src="final_setup.jpg" alt="Spotify Music Box Preview" height="400px">
 
 ## [Portfolio Website](https://www.itsmichael.dev/)
 Idea: This website showcases my experiences, skills, and projects as a developer. The website is simple, yet functional on all devices.
