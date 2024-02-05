@@ -1,4 +1,5 @@
 # GRIP-Portfolio
+Hi, my name is Michael Li and I am studying Computer Science at the University of Pennslyvania. 
 
 ## [Bentofy Website](https://bentofy.vercel.app/)
 Idea: This is a one-stop hub of your own life that you can share with all of those arounds you in the form of the trending Bento UI style. With a multiple variety of cards, you can showcase your hobbies and passions through the photo gallery card, or enlighten everyone with your messages using the text card.
