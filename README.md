@@ -16,4 +16,4 @@ Technologies: Raspberry Pi 4, Python, RFID Tags/Readers, Spotify API
 Idea: This website showcases my experiences, skills, and projects as a developer. The website is simple, yet functional on all devices.
 Technologies: Next.js, ChakraUI
 
-<img src="portfolioss.png" alt="Portfolio Website Preview" width="800px">
+<img src="portfolioss.png" alt="Portfolio Website Preview" width="700px">
