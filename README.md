@@ -1,4 +1,4 @@
-# GRIP-Portfolio
+# Portfolio
 Hi, my name is Michael Li and I am studying Computer Science at the University of Pennsylvania. I love to make new things, especially if it involves contributing back to society and helping others in some way. I've always been passionate about building projects that spark a "WOW" reaction in others and I hope I can continue to do that. 
 
 ## [Bentofy Website](https://bentofy.vercel.app/)
